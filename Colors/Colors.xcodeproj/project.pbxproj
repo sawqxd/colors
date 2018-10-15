@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF2EAC0C217545950083191A /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2EAC0B217545950083191A /* Color.swift */; };
 		EFAEDDAC215879E500275EE8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFAEDDAB215879E500275EE8 /* AppDelegate.swift */; };
 		EFAEDDB1215879E500275EE8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFAEDDAF215879E500275EE8 /* Main.storyboard */; };
 		EFAEDDB3215879E600275EE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFAEDDB2215879E600275EE8 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EF2EAC0B217545950083191A /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		EFAEDDA8215879E500275EE8 /* Colors.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Colors.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFAEDDAB215879E500275EE8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EFAEDDB0215879E500275EE8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				EFAEDDB4215879E600275EE8 /* LaunchScreen.storyboard */,
 				EFAEDDB7215879E600275EE8 /* Info.plist */,
 				EFAEDDD921587A6800275EE8 /* ColorsViewController.swift */,
+				EF2EAC0B217545950083191A /* Color.swift */,
 			);
 			path = Colors;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				EFAEDDDA21587A6800275EE8 /* ColorsViewController.swift in Sources */,
 				EFAEDDAC215879E500275EE8 /* AppDelegate.swift in Sources */,
+				EF2EAC0C217545950083191A /* Color.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
